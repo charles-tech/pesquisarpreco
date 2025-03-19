@@ -1,5 +1,6 @@
 streamlit as st
 yfinance as yf
 pandas as pd
-from datetime import datetime, timedelta
-from io import BytesIO
+datetime, 
+timedelta
+BytesIO
