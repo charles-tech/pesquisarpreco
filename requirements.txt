@@ -1,4 +1,5 @@
-streamlit==1.16.0  # Ajustar conforme necessário
-yfinance==0.2.16
-pandas==1.5.3
-xlsxwriter
+Pillow
+yfinance
+pandas
+plotly
+streamlit
